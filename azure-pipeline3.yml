@@ -10,7 +10,7 @@ trigger:
 
 resources:
   repositories:
-  - repository: azure-devops-pipeline-tutorial
+  - repository: JBC-LBP-LLC
     type: git
     name: azure-devops-pipeline-tutorial
     ref: 'refs/heads/master'
