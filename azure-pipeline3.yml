@@ -10,9 +10,9 @@ trigger:
 
 resources:
   repositories:
-  - repository: ci_template
+  - repository: azure-devops-pipeline-tutorial
     type: git
-    name: MySpace/Repo1
+    name: azure-devops-pipeline-tutorial
     ref: 'refs/heads/master'
 
 stages:
